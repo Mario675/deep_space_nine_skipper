@@ -1,0 +1,11 @@
+/*
+Author: Mario675
+Summary: Press a button, and quickly skip through the intro of deep space nine, without a worry.
+Consideratons:
+    You will have to mesure how fast the dvd is skipping at full speed.
+    You will have to mesure how long the intro section is. 
+    You will need to figure out how to bring out the section thing.
+    
+    - You will need to import a libary for reading ir signals, and broadcasting ir signals.
+      See arduino video about the libary and remote.
+*/
